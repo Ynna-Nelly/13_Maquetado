@@ -1,0 +1,37 @@
+h1{
+	text-align: center;
+	margin: 20px;
+}
+
+.alumna1{
+	border-radius: 100%;
+	margin-bottom: 20px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+.f1{
+	margin-top: 20px;
+	background-color: pink;
+	margin-bottom: 20px;
+}
+
+#rectangulo{
+	width: 300px;
+	height: 200px;
+	background-color: blue;
+	margin-top: 50px;
+}
+
+p{
+	padding: 17px;
+}
+
+.rosa1{
+	background-color: pink;
+	margin-right: 10px;
+}
+
+.rosa{
+	background-color: pink;
+}

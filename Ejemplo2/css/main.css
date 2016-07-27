@@ -1,0 +1,20 @@
+h1{
+	text-align: center;
+	margin:20px;
+}
+
+.alumna{
+	width: 300px;
+	height: 300px;
+}
+
+.espacio{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+a{
+	display: inline-block;
+	margin-left: 10px;
+	float: left;
+}

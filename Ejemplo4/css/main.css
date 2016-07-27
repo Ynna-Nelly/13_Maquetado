@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	margin: 20px;
+}
+
+.alumna1{
+	border-radius: 100%;
+	display: inline-block;
+	margin-right: -40px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+#f1{
+	margin-top: 20px;
+}
+
+p{
+	background-color: pink;
+	padding: 17px;
+}
